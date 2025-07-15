@@ -278,7 +278,8 @@ button:hover, .btn:hover {
     gap: 8px;
   }
   .day {
-    max-width: 48px;
+    margin: 10px;
+    max-width: 90%;
     min-width: 28px;
     height: 36px;
     font-size: 0.95rem;
