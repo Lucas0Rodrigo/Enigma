@@ -2,7 +2,7 @@
 const SENHA_1 = "13250";
 const SENHA_2 = "08532";
 // Caminho do PDF
-const PDF_URL = "Arq/E Se For Amor.pdf";
+const PDF_URL = "Arq/Só dia 28!.pdf";
 
 document.getElementById("senha-form").addEventListener("submit", function(e) {
   e.preventDefault();
